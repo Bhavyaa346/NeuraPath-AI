@@ -1,0 +1,6 @@
+{
+  "name": "NeuraPath AI",
+  "description": "Expert career guidance and college decision intelligence system driven by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
