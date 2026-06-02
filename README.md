@@ -6,11 +6,9 @@
 NeuraPath is an intelligent decision-support system designed to help students in India choose the right college, course, and career path using a combination of structured datasets and AI-based reasoning.
 
 Instead of random suggestions, NeuraPath uses ranking logic + real college data + AI explanation layer to provide clear, data-driven guidance.
-# Run and deploy your AI Studio app
+# Run app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/b31c64f0-c602-4174-960e-523268420049
+View your app : (https://neurapath-ai-78215364900.asia-southeast1.run.app)
 
 ## Run Locally
 
