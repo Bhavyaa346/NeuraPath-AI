@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+
 🧭 NeuraPath – AI Career & College Decision System
 
 NeuraPath is an intelligent decision-support system designed to help students in India choose the right college, course, and career path using a combination of structured datasets and AI-based reasoning.
